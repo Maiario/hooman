@@ -1,5 +1,4 @@
 # hooman
-
 <!DOCTYPE HTML>
 <HTML>
 <HEAD>
@@ -71,6 +70,22 @@ right now its still not possible since I'm still a beginner" <em> - the great ma
 
 <p class="Alberu"> I created this website on <strong> SEPTEMBER 9 2020 </strong> it still haven't been that long since I 
 started my journey in learning prog. I still have a long way to go! wish me luck! </p>
+
+<h1> STARTING POINT </h1>
+
+<p style="color:black; background-color:grey; align="middle;"> <strong> Formatting Elements </strong> <br> </strong>
+ 
+p - paragraph text <br>
+<b> b - bold text </b> <br>
+<big> big - big text </big>  <br>
+<i> i - italic text </i> <br>
+<small> small - small text </small> <br>
+<strong> strong - strong text </strong> <br>
+<sup> sup -  superscripted text </sup> <br>
+<ins> ins - inserted text </ins> <br>
+<sub> sub - subscripted text </sub> <br>
+<del> del - deleted text </del> <br>
+<button> button - button text </button> <br> </p>
 
 
 </BODY>
